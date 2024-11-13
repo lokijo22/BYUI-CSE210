@@ -1,7 +1,5 @@
 # cse210-student-template
-Coursework for CSE 210.
-
-Lokiel Reed
+CSE 210 Course work for Lokiel Reed.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
